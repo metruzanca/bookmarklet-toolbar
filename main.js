@@ -71,8 +71,6 @@ const STYLES = /*css*/`
     background: #24232e;
     margin: 2px;
   }
-  #bookmarklet-toolbar #bookmarklet-inoreader { order: 1; }
-  #bookmarklet-toolbar #bookmarklet-rss { order: 2; }
 `;
 
 function runOtherFiles(files, api) {
