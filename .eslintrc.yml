@@ -6,3 +6,4 @@ overrides: []
 parserOptions:
   ecmaVersion: latest
 rules: {}
+ignorePatterns: ['bookmarklet.js']
